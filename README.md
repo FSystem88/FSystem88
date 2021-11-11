@@ -1,5 +1,5 @@
 ## Ivan Godunov // FSystem88
-[![wakatime](https://wakatime.com/badge/github/FSystem88/FSystem88.svg)](https://wakatime.com/badge/github/FSystem88/FSystem88)
+[![wakatime](https://wakatime.com/badge/user/ffd66c49-92d5-4230-8b87-a1ddea6d9ab9.svg)](https://wakatime.com/@ffd66c49-92d5-4230-8b87-a1ddea6d9ab9)
 ## Contacts
 - <a href="https://vk.com/fsystem88">VK</a>
 - Telegram: <a href="https://t.me/FSystem88_bot">Me</a> & <a href="https://t.me/FS88ch">Channel</a>

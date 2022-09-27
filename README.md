@@ -13,9 +13,7 @@
 
 Cards:
 - Sberbank - 2202200768133611
-- Tinkoff - 5213244034788253
-- Yandex - 5599005093375876
-- Qiwi - 4693957557583098
+
 
 ## Stats
 <img src="https://gpvc.arturio.dev/FSystem88" align="center">

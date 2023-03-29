@@ -12,9 +12,7 @@
 ## Donate
 - <a href="https://qiwi.com/n/FSYSTEM88">QIWI Wallet</a>
 - <a href="https://yoomoney.ru/to/410015440700904">Yandex money</a>
-
-Cards:
-- Sberbank - 2202200768133611
+- <a href="https://www.tinkoff.ru/rm/godunov.ivan1/jlHwa57720">Tinkoff</a>
 
 
 ## Stats

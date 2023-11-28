@@ -4,13 +4,12 @@
 
 ## Contacts
 - <a href="https://vk.com/fsystem88">VK</a>
-- Telegram: <a href="https://t.me/FSystem808">Me</a> & <a href="https://t.me/FS88ch">Channel</a>
+- Telegram: <a href="https://t.me/FSystem808">Me</a> & <a href="https://t.me/FSystem88">Channel</a>
 - <a href="https://instagram.com/fsystem88">Instagram</a>
 - <a href="https://www.youtube.com/channel/UC1eU8zTeJEKQNxdEtKSmetA">YouTube</a>
 - E-mail: <a href="mailto:ivan@fsystem88.ru">ivan@fsystem88.ru</a>
 
 ## Donate
-- <a href="https://qiwi.com/n/FSYSTEM88">QIWI Wallet</a>
 - <a href="https://yoomoney.ru/to/410015440700904">Yandex money</a>
 - <a href="https://www.tinkoff.ru/rm/godunov.ivan1/jlHwa57720">Tinkoff</a>
 

@@ -1,4 +1,5 @@
 ## Ivan Godunov // FSystem88
+[![FSystem88 on GitRanks: profile](https://gitranks.com/badge/user/FSystem88/profile-card.svg)](https://gitranks.com/profile/FSystem88)
 
 ## Stats
 [![wakatime](https://wakatime.com/badge/user/ffd66c49-92d5-4230-8b87-a1ddea6d9ab9.svg)](https://wakatime.com/@ffd66c49-92d5-4230-8b87-a1ddea6d9ab9)
